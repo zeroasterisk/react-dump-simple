@@ -1,10 +1,10 @@
 {
-  "name": "react-dump",
-  "version": "0.0.0",
-  "description": "React Dump Component",
+  "name": "react-dump-simple",
+  "version": "0.0.1",
+  "description": "React Dump Simple Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeroasterisk/react-dump.git"
+    "url": "https://github.com/zeroasterisk/react-dump-simple.git"
   },
   "license": "MIT",
   "scripts": {

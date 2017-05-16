@@ -1,13 +1,16 @@
-# React Dump Component
+# React Dump Simple Component
 
 Sometimes you just want to dump the contents of a value onto the page.
 
-This is a rudementary implementation, but it should work for many things.
+If you want some colorful fanciness - check out [react-dump](https://www.npmjs.com/package/react-var-dump) &lt;-- more featureful
+
+But if you want something simple and plain, but still effective (maybe for an internal admin interface)...
 
 See [storybook for examples](https://zeroasterisk.github.io/react-dump)
 
+
 ```js
-import Dump from 'react-dump';
+import Dump from 'react-dump-simple';
 
 const MyPage = props => (
   <div>
